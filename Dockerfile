@@ -1,6 +1,6 @@
 ## Dockerfile for Isabelle2017
 
-FROM ubuntu
+FROM debian:stretch-slim
 SHELL ["/bin/bash", "-c"]
 
 ENV VERSION 2017
