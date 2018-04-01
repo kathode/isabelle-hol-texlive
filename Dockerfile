@@ -7,7 +7,7 @@ ENV VERSION 2017
 
 # packages
 RUN apt-get -y update && \
-  apt-get install -y curl less lib32stdc++6 libgomp1 libwww-perl rlwrap unzip wget texlive texlive-full && \
+  apt-get install -y curl less lib32stdc++6 libgomp1 libwww-perl rlwrap unzip wget texlive texlive-latex-extra && \
   apt-get clean
 
 # user
