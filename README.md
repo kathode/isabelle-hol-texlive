@@ -1,5 +1,5 @@
 # isabelle-hol-texlive
-[Debian Stretch](https://wiki.debian.org/DebianStretch)-based Docker image of [Isabelle2017](https://isabelle.in.tum.de/) with [TeX Live](https://www.tug.org/texlive/). The Dockerfile closely follows that of the official distribution ([makarius/isabelle](https://hub.docker.com/r/makarius/isabelle/)) and in addition provides the following sessions pre-built:
+[Debian Stretch](https://wiki.debian.org/DebianStretch)-based Docker image of [Isabelle2018](https://isabelle.in.tum.de/) with [TeX Live](https://www.tug.org/texlive/). The Dockerfile closely follows that of the official distribution ([makarius/isabelle](https://hub.docker.com/r/makarius/isabelle/)) and in addition provides the following sessions pre-built:
 
 * HOL
 * HOL-Algebra
