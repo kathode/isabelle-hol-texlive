@@ -3,7 +3,7 @@
 FROM debian:stretch-slim
 SHELL ["/bin/bash", "-c"]
 
-ENV VERSION 2017
+ENV VERSION 2018
 
 # packages
 RUN apt-get -y update && \
