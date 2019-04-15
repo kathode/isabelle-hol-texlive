@@ -1,4 +1,4 @@
-## Dockerfile for Isabelle2017
+## Dockerfile for Isabelle2018
 
 FROM debian:stretch-slim
 SHELL ["/bin/bash", "-c"]
